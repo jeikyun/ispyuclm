@@ -1,1 +1,3 @@
-# ispyuclm
+Jake Abing
+UC LM
+#BSCS
